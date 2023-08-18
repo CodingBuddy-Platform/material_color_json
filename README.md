@@ -6,7 +6,7 @@ Material Color JSON is a Dart package that helps you generate Flutter color sche
 
 Material Color Builder is a web tool that allows you to create custom color schemes for your Flutter app using the Material Design guidelines. You can choose from a variety of colors, adjust their shades, and preview how they look on different components. You can also export your color scheme as a JSON file that can be used by Material Color JSON.
 
-You can access the Material Color Builder web page by clicking [here](https://material.io/blog/material-theme-builder). You can also learn more about the tool and its features by reading the [introduction blog post](https://m3.material.io/theme-builder).
+You can access the Material Color Builder web page by clicking [here](https://m3.material.io/theme-builder). You can also learn more about the tool and its features by reading the [introduction blog post](https://material.io/blog/material-theme-builder).
 
 ## How to use Material Color JSON?
 
